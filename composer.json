@@ -1,0 +1,20 @@
+{
+    "name": "wardish/ci-excel-data-importer",
+    "description": "Data importer for CodeIgniter 3.x and PHPUnit",
+    "keywords": [
+        "codeigniter",
+        "PHPUnit"
+    ],
+    "homepage": "http://github.com/Wardish/ci-excel-data-importer/",
+    "license": "Apache v2.0",
+    "authors": [
+        {
+            "name": "Wardish,LLC.",
+            "homepage": "https://github.com/Wardish/"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "phpoffice/phpexcel": "1.8.*"
+    }
+}
